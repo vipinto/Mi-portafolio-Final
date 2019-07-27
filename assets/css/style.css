@@ -1,0 +1,83 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  width: 400;
+  color: var(--gray-dark);
+}
+
+.nav-link {
+  font-family: 'Roboto', sans-serif;
+  width: 400;
+  font-size: 1.1em;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 17px;
+  width: 400;
+  text-align: left;
+  line-height: 2.5em;
+  color: grey;
+}
+
+.card-text {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  width: 400;
+  text-align: left;
+  line-height: 1.5em;
+  color: grey;
+}
+
+.card-title {
+  text-align: left;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  width: 700;
+  font-size: 3.2em;
+  color: #373A3C;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  width: 700;
+  font-size: 2em;
+  color: #373A3C;
+}
+
+h4 {
+  font-family: 'Roboto', sans-serif;
+  width: 400;
+  color: grey;
+}
+
+hr {
+  height: 1.2px;
+  width: 350px;
+  background-color: white;
+}
+
+.linea-horizontal {
+    height: 1.2px;
+    width: 150px;
+    background-color: #373A3C;
+}
+
+.linea-horizontal-blanca {
+    height: 1.2px;
+    width: 150px;
+    background-color: white;
+}
+
+header {
+  background-image: url('../img/bg_hero.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 650px;
+}
+
+.texto-imagen {
+  padding-top: 400px;
+}
